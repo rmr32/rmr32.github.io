@@ -1,6 +1,6 @@
 {
-    "name": "peak_card_game",
-    "short_name": "peak_card_game",
+    "name": "red_dot_ent",
+    "short_name": "red_dot_ent",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
